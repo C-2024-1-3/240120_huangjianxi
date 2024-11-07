@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\LeSun\Desktop\shiyan12\实验1.2\FileName.cpp(2,18): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\LeSun\Desktop\shiyan12\实验1.2\FileName.cpp(12,25): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  实验1.2.vcxproj -> C:\Users\LeSun\Desktop\shiyan12\实验1.2\x64\Debug\实验1.2.exe
