@@ -1,3 +1,4 @@
 ﻿  shiyan2.9.cpp
 C:\Users\LeSun\Desktop\shiyan12\实验2.9\shiyan2.9.cpp(11,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\LeSun\Desktop\shiyan12\实验2.9\shiyan2.9.cpp(13,13): warning C4305: “初始化”: 从“double”到“float”截断
   实验2.9.vcxproj -> C:\Users\LeSun\Desktop\shiyan12\实验2.9\x64\Debug\实验2.9.exe

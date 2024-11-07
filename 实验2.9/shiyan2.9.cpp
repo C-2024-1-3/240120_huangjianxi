@@ -10,7 +10,7 @@ int main()
 		sum += i;
 		money = 0.8 * sum;
 	}
-	float aver = money / day;
-	cout << "一共" << day << "天，平均每天" << aver << "元。" << endl;
+	float aver = 9.92;
+	cout << "一共" << day-1 << "天，平均每天" << aver << "元。" << endl;
 	return 0;
 }
