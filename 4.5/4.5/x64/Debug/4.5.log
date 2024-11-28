@@ -1,0 +1,4 @@
+﻿  4_5.cpp
+C:\Users\LeSun\Desktop\学习资料\shiyan34\4.5\4.5\4_5.cpp(7,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\LeSun\Desktop\学习资料\shiyan34\4.5\4.5\4_5.cpp(8,9): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  4.5.vcxproj -> C:\Users\LeSun\Desktop\学习资料\shiyan34\4.5\x64\Debug\4.5.exe
